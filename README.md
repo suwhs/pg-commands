@@ -15,6 +15,7 @@ go get -t github.com/habx/pg-commands
 
 ## Example
 
+todo: add --create option to restore
 ### Code
 
 
